@@ -16,6 +16,9 @@ Integrations are not plugins, but are external tools or modules that make it eas
 
 * https://drupal.org/project/elasticsearch_connector[Drupal]:
   Drupal Elasticsearch integration.
+  
+* https://github.com/Flowpack/Flowpack.ElasticSearch.ContentRepositoryAdaptor[Neos]:
+  Neos CMS Elasticsearch integration with custom projection DSL.
 
 * http://searchbox-io.github.com/wp-elasticsearch/[Wp-Elasticsearch]:
   Elasticsearch WordPress Plugin
